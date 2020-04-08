@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34ed5770-0ca5-4750-8f79-c94984eea885" name="Default Changelist" comment="第一次提交">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\tasks\work\work\erp\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\tasks\mave\Repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../mave/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\tasks\mave\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZyoteMwDSKOBY9jJ6UxWUt68qC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.27058825" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.csdj.erpcommon.pojo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\tasks\work\work\erp\erp-common\src\main\java\com\csdj\erpcommon\pojo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ErpWebApplication">
+    <configuration name="ErpDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="erp-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.csdj.ErpDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ErpWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="erp-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.csdj.ErpWebApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34ed5770-0ca5-4750-8f79-c94984eea885" name="Default Changelist" comment="" />
+      <created>1585815132459</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585815132459</updated>
+      <workItem from="1585815134580" duration="4618000" />
+      <workItem from="1585819762231" duration="788000" />
+      <workItem from="1585820912670" duration="4831000" />
+      <workItem from="1585829257544" duration="118000" />
+      <workItem from="1585829804073" duration="3334000" />
+      <workItem from="1585833455730" duration="3109000" />
+      <workItem from="1585837829861" duration="3664000" />
+      <workItem from="1585842461839" duration="2221000" />
+      <workItem from="1585869783879" duration="3422000" />
+      <workItem from="1585874532630" duration="901000" />
+      <workItem from="1585875763206" duration="73000" />
+      <workItem from="1585875889337" duration="2111000" />
+      <workItem from="1585899027638" duration="3900000" />
+      <workItem from="1586154522181" duration="1716000" />
+      <workItem from="1586264724974" duration="1567000" />
+      <workItem from="1586266304360" duration="1677000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一次提交">
+      <created>1586265887503</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586265887503</updated>
+    </task>
+    <task id="LOCAL-00002" summary="第一次提交">
+      <created>1586266491085</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586266491085</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="179" key="#Project_Structure" timestamp="1585876318828">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1585876318828" />
+    <state x="457" y="114" key="CommitChangelistDialog2" timestamp="1586266645902">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="457" y="114" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1586266645902" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1586331948859">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1586331948859" />
+    <state x="781" y="433" width="382" height="173" key="Github.CreateGistDialog" timestamp="1586266180772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="781" y="433" width="382" height="173" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586266180772" />
+    <state width="1877" height="187" key="GridCell.Tab.0.bottom" timestamp="1586158427628">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="187" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1586158427628" />
+    <state width="1877" height="187" key="GridCell.Tab.0.center" timestamp="1586158427628">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="187" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1586158427628" />
+    <state width="1877" height="187" key="GridCell.Tab.0.left" timestamp="1586158427628">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="187" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1586158427628" />
+    <state width="1877" height="187" key="GridCell.Tab.0.right" timestamp="1586158427628">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="187" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1586158427628" />
+    <state width="1877" height="187" key="GridCell.Tab.1.bottom" timestamp="1585909137511">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="187" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585909137511" />
+    <state width="1877" height="187" key="GridCell.Tab.1.center" timestamp="1585909137511">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="187" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585909137511" />
+    <state width="1877" height="187" key="GridCell.Tab.1.left" timestamp="1585909137510">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="187" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585909137510" />
+    <state width="1877" height="187" key="GridCell.Tab.1.right" timestamp="1585909137511">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="187" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585909137511" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1586267073941">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1586267073941" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1586266664788">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1586266664788" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1586331938014">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586331938014" />
+  </component>
+</project>

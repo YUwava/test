@@ -18,45 +18,10 @@
     <name>erp</name>
     <description>Demo project for Spring Boot</description>
 
-    <properties>
-        <java.version>1.8</java.version>
-    </properties>
-
-    <dependencyManagement>
-        <dependencies>
-            <dependency>
-                <groupId>com.csdj</groupId>
-                <artifactId>erp-common</artifactId>
-                <version>0.0.1-SNAPSHOT</version>
-            </dependency>
-
-            <dependency>
-                <groupId>com.csdj</groupId>
-                <artifactId>erp-service</artifactId>
-                <version>0.0.1-SNAPSHOT</version>
-            </dependency>
-
-            <dependency>
-                <groupId>com.csdj</groupId>
-                <artifactId>erp-service-impl</artifactId>
-                <version>0.0.1-SNAPSHOT</version>
-            </dependency>
-
-            <dependency>
-                <groupId>com.csdj</groupId>
-                <artifactId>erp-web</artifactId>
-                <version>0.0.1-SNAPSHOT</version>
-            </dependency>
-        </dependencies>
-    </dependencyManagement>
-
-    <!--<build>
-        <plugins>
-            <plugin>
-                <groupId>org.springframework.boot</groupId>
-                <artifactId>spring-boot-maven-plugin</artifactId>
-            </plugin>
-        </plugins>
-    </build>-->
-
+    <!--大家好，我是猪猪鹏-->
+    <!--大家好，我是猪猪鹏-->
+    <!--大家好，我是猪猪鹏-->
+    <!--大家好，我是猪猪鹏-->
+    <!--大家好，我是猪猪鹏-->
+    <!--大家好，我是猪猪鹏-->
 </project>
